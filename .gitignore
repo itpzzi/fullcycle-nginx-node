@@ -1,0 +1,9 @@
+# Ignorar o diretório de dados do MySQL
+mysql/data/
+
+# Ignorar dependências do Node.js
+node/node_modules/
+
+# Ignorar arquivos e pastas criados pelo sistema
+.DS_Store
+Thumbs.db
